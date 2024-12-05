@@ -1,0 +1,7 @@
+PageObjects\LoginPage.class
+PageObjects\CatalogPage.class
+PageObjects\RegisterPage.class
+jPetStoreBDD\TestRunner.class
+Config\ConfigBrowser.class
+PageObjects\OrderPage.class
+jPetStoreBDD\steps\JPetStoreSteps.class

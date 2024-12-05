@@ -1,0 +1,7 @@
+# Ativar a geração do relatório do Cucumber
+#cucumber.publish.enabled=true
+# Remover linhas de log extras
+#cucumber.filter.features=.
+#cucumber.filter.tags=@execute
+ 
+ 
